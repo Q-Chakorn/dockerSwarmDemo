@@ -1,3 +1,10 @@
+--VsCode shortkey 
+- shift + option + ลูกศร  = copy row
+- cmd + x = delete row
+- option + ลูกศร = move row
+- click + cmd + d = multi select
+
+
 - create app.js
 - npm init -y
 - npm i express
@@ -22,3 +29,11 @@ docker service ls
 docker service rm <service_id>
 
 docker commit <container_id> chakorn/dockerswarmdemo:1.0
+
+--github
+- git init
+- git add .
+- git status
+- git commit -m "..."
+- git remote add origin http.....
+- git push -u origin main
